@@ -1,3 +1,5 @@
+[DEMO- Link:](https://housepricepredictor-mgkbixntf6jnhs3ppxayyv.streamlit.app/)
+
 # House Price Prediction with SHAP
 
 This Streamlit web app predicts the median house price in California based on various features and interprets predictions using SHAP (SHapley Additive exPlanations). It uses machine learning models, including Linear Regression and XGBoost, to provide predictions and visualizations.
