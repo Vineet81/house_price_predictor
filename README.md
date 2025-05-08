@@ -1,5 +1,5 @@
 DEMO- Link:
-[Clich-Here](https://housepricepredictor-mgkbixntf6jnhs3ppxayyv.streamlit.app/)
+[Click-Here](https://housepricepredictor-mgkbixntf6jnhs3ppxayyv.streamlit.app/)
 
 # House Price Prediction with SHAP
 
